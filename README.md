@@ -1,12 +1,12 @@
 # Tic-Tac-Toe-Py
 
-#About:
+## About:
 * Play the Tic Tac Toe Game in the Jupyter Notebook - IPython
 
-#Prerequiremnt:
+## Prerequiremnt:
 * You must install Jupyter Notebook - IPython.
 
-#How to Run:
+## How to Run:
 
 * Clone this file directly to local repository or just simply download the code
 * Open the game.py file
